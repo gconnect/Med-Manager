@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "793869092450",
+    "firebase_url": "https://medicalapp-366fb.firebaseio.com",
+    "project_id": "medicalapp-366fb",
+    "storage_bucket": "medicalapp-366fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793869092450:android:7e09c7897348bbf3",
+        "android_client_info": {
+          "package_name": "com.gconsult.medicalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793869092450-u34c242hflpactlqr1v55t7a23j83mn4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gconsult.medicalapp",
+            "certificate_hash": "2e57f607a8edf465cf6426bfb234d34ec154bbf9"
+          }
+        },
+        {
+          "client_id": "793869092450-5b7dd2fukav5a7d21ii5rpsghv3nar5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYnuLqGH_WPYE3yyFcrvaLY0FmtlkZrrg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793869092450-5b7dd2fukav5a7d21ii5rpsghv3nar5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
